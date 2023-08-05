@@ -7,7 +7,10 @@
 •	It contains movies like comedy, horror, action, and romance. 
 
 Front-end  : React Js
+
 API        : IMDB
+
 IDE        : VScode
+
 UI/UX      : Figma
 
